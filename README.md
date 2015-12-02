@@ -30,7 +30,7 @@ Lab assignments for my first year, programming fundamentals course
 
 <b>Lab6:</b>
 </br>
-![lab6](https://cloud.githubusercontent.com/assets/15402874/11346012/7598f6d0-91e8-11e5-8219-f02c8cfe334d.png)
+![lab6](https://cloud.githubusercontent.com/assets/15402874/11538851/d3f91a60-98f1-11e5-922e-ab34bb082a5d.png)
 
 <b>Lab7:</b>
 </br>
